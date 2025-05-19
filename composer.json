@@ -1,0 +1,16 @@
+{
+    "name": "anyelber/crudmvcterminado",
+    "description": "no posee",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Anyelber\\Crudmvcterminado\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anyelber"
+        }
+    ],
+    "require": {}
+}
